@@ -1,2 +1,4 @@
 # multi-tier-arch-staging
-multi-tier-arch-staging - This sis going to create  ALB and webserver
+ creating multi-tier-arch-staging - This sis going to create  ALB and webserver
+ ## This project is deploying multi service in the was cloud
+
